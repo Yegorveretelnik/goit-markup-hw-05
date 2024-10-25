@@ -708,9 +708,10 @@ border-color: #4D5AE5;
     align-items: center;
     justify-content: center;
     fill: transparent;
+    margin-right: 8px;
 }
 
-.chechkboxinput:checked + .modalwindowsvg-checkbox {
+input[type="checkbox"]:checked + label > .checkboxspan {
 
 background-color: #404bbf;
 border: none;
