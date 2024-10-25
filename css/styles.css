@@ -427,6 +427,10 @@ justify-content: center;
     margin-right: 120px
 }
 
+.footerdivthree {
+    margin-left: 50px;
+}
+
 .footerdivthree-p {
 
     margin-bottom: 16px;
@@ -440,7 +444,7 @@ justify-content: center;
 .footerform {
 
     display: flex;
-    gap 24px
+    gap: 24px;
 }
 
 .footerinput {
@@ -462,6 +466,8 @@ input::placeholder {
     color:#FFFFFF;
     
 }
+
+
 
 .footerbutton {
     background-color: #4D5AE5;
