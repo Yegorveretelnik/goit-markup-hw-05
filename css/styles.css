@@ -709,3 +709,10 @@ border-color: #4D5AE5;
     justify-content: center;
     fill: transparent;
 }
+
+.chechkboxinput:checked + .modalwindowsvg-checkbox {
+
+background-color: #404bbf;
+border: none;
+fill: #F4F4FD;
+}
